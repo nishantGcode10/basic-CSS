@@ -1,0 +1,79 @@
+.intro{
+  background-color: #E4F9F5;
+
+}
+body{
+  margin: 0px;
+  text-align: center;
+  background: #f5f5f5;
+
+
+
+}
+.cloud-2{
+  position: absolute;
+}
+.cloud-1{
+  margin-left: 600px;
+  margin-top: 100px;
+}
+h1{font-family: 'Dancing Script', cursive;
+  margin-top: 0px;
+  font-size: 5.625rem;
+  color: #7fdbda
+}
+.Koder{
+  height: 200px;
+  width: 200px;
+  float: left;
+
+}
+.ml{margin-left: 100px;
+  height: 200px;
+  width: 200px;
+  float: left;
+}
+hr{
+  margin-top: 0;
+}
+.dev{margin-right: 100px;
+  height: 200px;
+  width: 200px;
+  float: right;
+}
+.short{
+  font-size: 2.5rem;
+}
+.competetive ,.developer,.machine-learning{
+  height: 300px;
+}
+.competetive{margin-left: 100px;
+  height: 300px;
+}
+.end{
+  background-color: #6ebfb5;
+  padding:45px;
+}
+.copy{
+  margin-bottom: 0;
+}
+hr {
+    margin-top: 0;
+    border: dotted 5px lightgrey;
+    border-top: none;
+    width: 100px;
+}
+.pre-end{
+  background-color: #14b1ab;
+  height:100px;
+}
+a{
+  position: relative;
+  top: 30px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.copyright{
+  position: relative;
+  top: 30px;
+}
